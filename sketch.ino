@@ -1,4 +1,4 @@
-#deifne LED 8
+#define LED 8
 
 void setup() {
   pinMode(LED, OUTPUT);
